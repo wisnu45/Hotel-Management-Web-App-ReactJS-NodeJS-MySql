@@ -1,0 +1,9 @@
+.addroom{
+    display:flex;
+    flex-direction:column;
+    
+}
+
+h1{
+    background-color: tomato;
+}
